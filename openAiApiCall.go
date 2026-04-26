@@ -24,7 +24,7 @@ func generateSitRep(messages []Message) (string, error) {
 		return "", fmt.Errorf("OPENAI_API_KEY environment variable not set")
 	}
 
-	// openAPI call
+	// openAI API call
 	// msgBytes == messages turned into json
 	msgBytes, err := json.Marshal(messages)
 	if err != nil {

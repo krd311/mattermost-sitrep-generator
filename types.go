@@ -7,6 +7,7 @@ type Message struct {
 	Message string `json:"message"`
 }
 
+// represents response from openAI API call
 type result struct {
 	Choices []struct {
 		Message struct {

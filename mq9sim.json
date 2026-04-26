@@ -1,0 +1,128 @@
+[
+  {
+    "time": "2026-04-26T18:00:00Z",
+    "channel": "recon-mq9b",
+    "sender": "MissionCommander",
+    "message": "MQ-9B reconnaissance mission started. Primary objective is route observation and area awareness for the eastern training corridor."
+  },
+  {
+    "time": "2026-04-26T18:03:00Z",
+    "channel": "recon-mq9b",
+    "sender": "SensorOperator",
+    "message": "EO/IR sensor check complete. Video feed stable. Image quality good."
+  },
+  {
+    "time": "2026-04-26T18:07:00Z",
+    "channel": "recon-mq9b",
+    "sender": "Pilot",
+    "message": "Aircraft established on planned observation track. Weather is clear with light surface haze."
+  },
+  {
+    "time": "2026-04-26T18:12:00Z",
+    "channel": "recon-mq9b",
+    "sender": "IntelAnalyst",
+    "message": "Historical activity noted near Checkpoint Delta during previous exercises. Recommend continued observation while transiting the sector."
+  },
+  {
+    "time": "2026-04-26T18:18:00Z",
+    "channel": "recon-mq9b",
+    "sender": "SensorOperator",
+    "message": "Event: Three vehicles observed parked near Checkpoint Delta. No movement detected at this time."
+  },
+  {
+    "time": "2026-04-26T18:21:00Z",
+    "channel": "recon-mq9b",
+    "sender": "MissionCommander",
+    "message": "Decision: Maintain observation of Checkpoint Delta for five additional minutes before continuing route scan."
+  },
+  {
+    "time": "2026-04-26T18:26:00Z",
+    "channel": "recon-mq9b",
+    "sender": "SensorOperator",
+    "message": "Event: One vehicle departed Checkpoint Delta heading west along the service road."
+  },
+  {
+    "time": "2026-04-26T18:29:00Z",
+    "channel": "recon-mq9b",
+    "sender": "IntelAnalyst",
+    "message": "Vehicle movement appears consistent with routine exercise traffic. No unusual indicators identified."
+  },
+  {
+    "time": "2026-04-26T18:34:00Z",
+    "channel": "recon-mq9b",
+    "sender": "Comms",
+    "message": "Temporary delay in chat relay from forward observer team. Voice backup remains available."
+  },
+  {
+    "time": "2026-04-26T18:39:00Z",
+    "channel": "recon-mq9b",
+    "sender": "Pilot",
+    "message": "Aircraft continuing planned route. Fuel and system status nominal."
+  },
+  {
+    "time": "2026-04-26T18:46:00Z",
+    "channel": "recon-mq9b",
+    "sender": "SensorOperator",
+    "message": "Event: Heat signature detected near Supply Point Echo. Appears stationary and partially obscured by structures."
+  },
+  {
+    "time": "2026-04-26T18:48:00Z",
+    "channel": "recon-mq9b",
+    "sender": "MissionCommander",
+    "message": "Tasking: Capture still image of Supply Point Echo and continue passive observation."
+  },
+  {
+    "time": "2026-04-26T18:51:00Z",
+    "channel": "recon-mq9b",
+    "sender": "SensorOperator",
+    "message": "Still image captured. Heat signature now assessed as likely generator or equipment source."
+  },
+  {
+    "time": "2026-04-26T18:56:00Z",
+    "channel": "recon-mq9b",
+    "sender": "Weather",
+    "message": "Light cloud cover expected to increase over the western sector within 30 minutes. Visibility may degrade slightly."
+  },
+  {
+    "time": "2026-04-26T19:02:00Z",
+    "channel": "recon-mq9b",
+    "sender": "ForwardObserver",
+    "message": "Chat relay restored. Ground team confirms no abnormal activity near Supply Point Echo."
+  },
+  {
+    "time": "2026-04-26T19:08:00Z",
+    "channel": "recon-mq9b",
+    "sender": "IntelAnalyst",
+    "message": "Pattern update: Checkpoint Delta and Supply Point Echo both remain within expected exercise activity."
+  },
+  {
+    "time": "2026-04-26T19:14:00Z",
+    "channel": "recon-mq9b",
+    "sender": "SensorOperator",
+    "message": "Event: Small group of personnel observed near Training Area North. Activity appears administrative."
+  },
+  {
+    "time": "2026-04-26T19:17:00Z",
+    "channel": "recon-mq9b",
+    "sender": "MissionCommander",
+    "message": "Decision: No change to mission plan. Continue route observation and log significant deviations only."
+  },
+  {
+    "time": "2026-04-26T19:25:00Z",
+    "channel": "recon-mq9b",
+    "sender": "Pilot",
+    "message": "Aircraft approaching final observation segment. Systems remain nominal."
+  },
+  {
+    "time": "2026-04-26T19:32:00Z",
+    "channel": "recon-mq9b",
+    "sender": "SensorOperator",
+    "message": "Final segment scan complete. No priority anomalies observed."
+  },
+  {
+    "time": "2026-04-26T19:36:00Z",
+    "channel": "recon-mq9b",
+    "sender": "MissionCommander",
+    "message": "Decision: End active reconnaissance collection and prepare mission summary. Include vehicle movement at Checkpoint Delta, Supply Point Echo heat source assessment, and temporary comms relay delay."
+  }
+]

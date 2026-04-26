@@ -1,0 +1,50 @@
+[
+  {
+    "time": "2026-04-26T14:05:00Z",
+    "channel": "ops-alpha",
+    "sender": "WatchOfficer",
+    "message": "Blue Team reports maintenance delay on Vehicle 12. Estimated return to service is 45 minutes."
+  },
+  {
+    "time": "2026-04-26T14:08:00Z",
+    "channel": "ops-alpha",
+    "sender": "Logistics",
+    "message": "Replacement vehicle available if Vehicle 12 is not ready by 1445Z."
+  },
+  {
+    "time": "2026-04-26T14:12:00Z",
+    "channel": "ops-alpha",
+    "sender": "BattleCaptain",
+    "message": "Decision: Shift convoy departure from 1430Z to 1515Z. Notify all section leads and update movement board."
+  },
+  {
+    "time": "2026-04-26T14:20:00Z",
+    "channel": "ops-alpha",
+    "sender": "Comms",
+    "message": "All section leads acknowledged updated convoy departure time."
+  },
+  {
+    "time": "2026-04-26T14:32:00Z",
+    "channel": "ops-alpha",
+    "sender": "Safety",
+    "message": "Weather cell approaching training route. Monitor visibility and reassess movement conditions at 1500Z."
+  },
+  {
+    "time": "2026-04-26T14:40:00Z",
+    "channel": "ops-alpha",
+    "sender": "Intel",
+    "message": "No external threat indicators affecting convoy route at this time."
+  },
+  {
+    "time": "2026-04-26T14:52:00Z",
+    "channel": "ops-alpha",
+    "sender": "WatchOfficer",
+    "message": "Vehicle 12 repair complete. Asset available for tasking."
+  },
+  {
+    "time": "2026-04-26T14:55:00Z",
+    "channel": "ops-alpha",
+    "sender": "BattleCaptain",
+    "message": "Decision: Maintain revised 1515Z departure to preserve coordination timeline."
+  }
+]

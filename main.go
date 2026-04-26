@@ -21,7 +21,7 @@ func main() {
 
 	// read messages from json file
 	// messages = the messages returned from readMessages, err != nil if there was an error
-	messages, err := readMessages(messageFilename)
+	messages, err := readMessages(fmt.Sprintf(`conversations\%v`, messageFilename))
 	if err != nil {
 		log.Fatalf("Error reading messages: %v", err)
 	} else {
